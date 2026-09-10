@@ -105,4 +105,9 @@ I’ll keep adding new solutions as I solve more problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 <!---LeetCode Topics End-->
