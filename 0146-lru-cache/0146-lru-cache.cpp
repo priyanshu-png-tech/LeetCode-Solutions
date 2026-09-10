@@ -1,41 +1,47 @@
 class LRUCache {
 public:
+    list<int>dll;
+    unordered_map<int ,pair<list<int>::iterator , int>>mp;
     int n;
-    vector<pair<int,int>>cache;
 
     LRUCache(int capacity) {
-        n = capacity;    
+        n = capacity;
     }
     
+    void markRecentlyUsed(int key){
+        dll.erase(mp[key].first);
+        dll.push_front(key);
+        mp[key].first = dll.begin();
+        return;
+    }
+
     int get(int key) {
-        for(int i=0 ; i<cache.size() ;i++){
-            if(cache[i].first==key){
-                int val = cache[i].second;
-                pair<int,int>temp ={key , val};
-                cache.erase(cache.begin()+i);
-                cache.push_back(temp);
-                return val;
-            }
+        if(mp.find(key)==mp.end()){
+            return -1;
         }
-        return -1;
+
+        markRecentlyUsed(key);
+        return mp[key].second;
     }
     
     void put(int key, int value) {
-        for(int i=0 ; i<cache.size() ;i++){
-            if(cache[i].first==key){
-                cache.erase(cache.begin()+i);
-                cache.push_back({key,value});
-                return;
-            }
-        }
-        
-        if(cache.size()==n){
-            cache.erase(cache.begin());
-            cache.push_back({key,value});
+        if(mp.find(key)!=mp.end()){
+            mp[key].second = value;
+            markRecentlyUsed(key);
             return;
         }
         else{
-            cache.push_back({key,value});
+            dll.push_front(key);
+            mp[key].first = dll.begin();
+            mp[key].second = value;
+            n--;
+        }
+        if(n<0){
+            int key_to_be_del = dll.back();
+            dll.pop_back();
+            mp.erase(key_to_be_del);
+            n++;
+            return;
         }
     }
 };
