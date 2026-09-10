@@ -31,6 +31,6 @@ I’m using this repository to keep track of my problem-solving practice and imp
 I’ll keep adding new solutions as I solve more problems.
 
 
-###Array
+### Array
 |Problem|
 |-------|
