@@ -76,4 +76,20 @@ I’ll keep adding new solutions as I solve more problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
