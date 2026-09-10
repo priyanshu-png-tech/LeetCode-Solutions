@@ -38,11 +38,13 @@ I’ll keep adding new solutions as I solve more problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ I’ll keep adding new solutions as I solve more problems.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Heap (Priority Queue)
@@ -62,6 +65,7 @@ I’ll keep adding new solutions as I solve more problems.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
