@@ -38,6 +38,7 @@ I’ll keep adding new solutions as I solve more problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -104,10 +105,15 @@ I’ll keep adding new solutions as I solve more problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
