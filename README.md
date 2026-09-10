@@ -38,6 +38,7 @@ I’ll keep adding new solutions as I solve more problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,14 +47,17 @@ I’ll keep adding new solutions as I solve more problems.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -62,5 +66,10 @@ I’ll keep adding new solutions as I solve more problems.
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
