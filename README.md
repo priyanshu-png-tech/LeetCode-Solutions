@@ -38,6 +38,7 @@ I’ll keep adding new solutions as I solve more problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -92,4 +93,16 @@ I’ll keep adding new solutions as I solve more problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/priyanshu-png-tech/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
